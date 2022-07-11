@@ -2,6 +2,9 @@
 A cryptocurrency is a digital currency, which is an alternative form of payment created using encryption algorithms. 
 The use of encryption technologies means that cryptocurrencies function both as a currency and as a virtual accounting system. 
 To use cryptocurrencies, you need a cryptocurrency wallet.
+
+**TOOLS :** Excel, Power BI.
+
 ![1](https://user-images.githubusercontent.com/105859819/178218430-0be5bd09-7f48-4d29-9e0d-25a33c163c6d.png)
 This first dashboard you can easily understand the Market capital and volume of last 9 years. You can also predict the Future forecasting amount of high and low.
 This dashboard has last 9 years of high and low amount of each crypto currency. 
